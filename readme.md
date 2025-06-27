@@ -1,4 +1,4 @@
-<h1>Retrieval Augmented Generation (RAG) with Streamlit, LangChain and Pinecone</h1>
+<h1>Retrieval Augmented Generation (RAG) with Streamlit, LangChain and Pinecone DB</h1>
 
 <h2>Can Be Utilized For Domain Specific Knowledge... In This Case, EPCI Oil & Gas</h2>
 
@@ -48,8 +48,7 @@ pip install -r requirements.txt
 
 2. Execute the following command:
 
-```
-python ingestion.py
-python retrieval.py
-python -m streamlit run chatbot_rag.py
+   python ingestion.py, 
+   python retrieval.py, 
+   python -m streamlit run chatbot_rag.py, 
 ```
