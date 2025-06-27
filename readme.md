@@ -61,7 +61,8 @@ pip install -r requirements.txt
 https://platform.openai.com/api-keys
 
 ```
-6. Add API keys to .env file
+
+6. Create .env file in directory and add API keys to .env file
 
 
 - Add the API keys for Pinecone and OpenAI to the .env file
