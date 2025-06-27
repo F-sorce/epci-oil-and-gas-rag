@@ -62,7 +62,7 @@ https://platform.openai.com/api-keys
 
 ```
 
-6. Create .env file in directory and add API keys to .env file
+6. Create .env file in directory
 
 
 - Add the API keys for Pinecone and OpenAI to the .env file
