@@ -9,28 +9,29 @@
 </ul>
 
 <h2>Installation</h2>
+```
 1. Clone the repository:
 
-```
+
 
 2. Create a virtual environment
 
-```
+
 python -m venv venv
-```
+
 
 3. Activate the virtual environment
 
-```
+
 venv\Scripts\Activate
 (or on Mac): source venv/bin/activate
-```
+
 
 4. Install libraries
 
-```
+
 pip install -r requirements.txt
-```
+
 
 5. Create accounts
 
@@ -42,7 +43,7 @@ pip install -r requirements.txt
 
 - Add the API keys for Pinecone and OpenAI to the .env file
 
-<h3>Executing the scripts</h3>
+Executing the scripts
 
 1. Open a terminal in VS Code
 
